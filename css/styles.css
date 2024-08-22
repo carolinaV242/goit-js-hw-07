@@ -1,0 +1,118 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+/* STATES */
+.states {
+}
+
+.form {
+}
+
+.email-login {
+}
+
+.login-form {
+}
+
+.destroy-form {
+
+}
+
+
+/* LIST */
+.category-f {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 16px;
+    width: 392px;
+    height: 264px;
+    background: #f6f6fe;
+    margin-bottom: 24px;
+}
+
+.category-s {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 16px;
+    width: 392px;
+    height: 216px;
+    background: #f6f6fe;
+    margin-bottom: 24px;
+}
+
+.category-t {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 16px;
+    border-radius: 8px;
+    padding: 16px;
+    width: 392px;
+    height: 312px;
+    background: #f6f6fe;
+    margin-bottom: 24px;
+}
+
+.text {
+    font: 600 "Montserrat",  sans-serif;
+    font-size: 1.5em;
+    letter-spacing: 0.04em;
+    margin-bottom: 10px;
+    color: #2E2F42;
+
+}
+
+.text-category-f {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0 16px 16px 16px ;
+}
+
+.text-category-s {
+    display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: column;
+        gap: 8px;
+        padding: 0 16px 16px 16px;
+}
+
+.text-category-t {
+    display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        flex-direction: column;
+        gap: 8px;
+        padding: 0 16px 16px 16px;
+}
+
+.text-br {
+    top: 8px;
+        bottom: 8px;
+        left: 16px;
+        right: 315px;
+    border: 1px solid #808080;
+        border-radius: 4px;
+        width: 360px;
+        height: 40px;
+}
